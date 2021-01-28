@@ -3,6 +3,9 @@ name = "wechaty_puppet"
 version = "0.1.0"
 authors = ["Gabriel Wu <qqbbnease1004@126.com>"]
 edition = "2018"
+license = "Apache-2.0"
+description = "Rust library automatically generated from Wechaty-puppet gRPC definitions"
+keywords = ["chatbot", "wechaty"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
