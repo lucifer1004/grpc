@@ -1,0 +1,11 @@
+# Rust
+target
+Cargo.lock
+src/puppet
+
+# System
+.DS_Store
+
+# IDE
+.idea
+.vscode
