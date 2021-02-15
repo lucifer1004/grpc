@@ -1,5 +1,5 @@
 [package]
-name = "wechaty_puppet"
+name = "wechaty-grpc"
 version = "0.1.0"
 authors = ["Gabriel Wu <qqbbnease1004@126.com>"]
 edition = "2018"
